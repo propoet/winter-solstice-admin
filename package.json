@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev:play": "pnpm --filter @solstice/playground dev"
   },
   "keywords": [],
   "author": "",
